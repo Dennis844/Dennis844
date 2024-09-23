@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @
-- 🌱 I’m currently learning C and Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gherle Darius
+- 🌱 I’m currently learning Computer vision
+
 
